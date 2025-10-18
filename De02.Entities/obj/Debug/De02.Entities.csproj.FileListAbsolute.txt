@@ -1,0 +1,12 @@
+C:\Users\hungt\source\repos\TranVinhHung_0940\De02\De02.Entities\bin\Debug\De02.Entities.dll
+C:\Users\hungt\source\repos\TranVinhHung_0940\De02\De02.Entities\bin\Debug\De02.Entities.pdb
+C:\Users\hungt\source\repos\TranVinhHung_0940\De02\De02.Entities\obj\Debug\De02.Entities.csproj.AssemblyReference.cache
+C:\Users\hungt\source\repos\TranVinhHung_0940\De02\De02.Entities\obj\Debug\De02.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hungt\source\repos\TranVinhHung_0940\De02\De02.Entities\obj\Debug\De02.Entities.dll
+C:\Users\hungt\source\repos\TranVinhHung_0940\De02\De02.Entities\obj\Debug\De02.Entities.pdb
+C:\Users\hungt\source\repos\TranVinhHung_0940\De02\De02.Entities\bin\Debug\De02.Entities.dll.config
+C:\Users\hungt\source\repos\TranVinhHung_0940\De02\De02.Entities\bin\Debug\EntityFramework.dll
+C:\Users\hungt\source\repos\TranVinhHung_0940\De02\De02.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hungt\source\repos\TranVinhHung_0940\De02\De02.Entities\bin\Debug\EntityFramework.xml
+C:\Users\hungt\source\repos\TranVinhHung_0940\De02\De02.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hungt\source\repos\TranVinhHung_0940\De02\De02.Entities\obj\Debug\De02.Ent.C8689A44.Up2Date

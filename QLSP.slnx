@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="De02.BLL/De02.BLL.csproj" Id="ee806e44-a035-4343-8905-0bd4fa337349" />
+  <Project Path="De02.DAL/De02.DAL.csproj" Id="a8cc4d17-c062-4e6b-a05b-5b4b489b677c" />
+  <Project Path="De02.Entities/De02.Entities.csproj" Id="df8b8ad9-21f5-4b63-bb7b-530a50ec7dd7" />
+  <Project Path="De02/De02.UI.csproj" Id="d2ab70ec-0ff9-4410-9b38-81cfcb22fc7f" />
+</Solution>
